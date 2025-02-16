@@ -23,6 +23,7 @@ This project leverages Generative AI to analyze food package nutritional values 
 - Clone the repository:
 git clone https://github.com/shripaddhopate/Food-Package-Nutritional-analysis-using-GenAi.git
 - cd food-nutrition-analysis
+- git checkout develop
 - Set up API keys:
 - Configure the Gemini API key in an .env file or as an environment variable.
 - Run the application:
